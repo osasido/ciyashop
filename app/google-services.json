@@ -1,41 +1,42 @@
 {
   "project_info": {
-    "project_number": "573891001770",
-    "firebase_url": "https://ios-apps-ddbaa.firebaseio.com",
-    "project_id": "ios-apps-ddbaa"
+    "project_number": "510232054004",
+    "firebase_url": "https://go360mart-a59a1.firebaseio.com",
+    "project_id": "go360mart-a59a1",
+    "storage_bucket": "go360mart-a59a1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:573891001770:android:0f8c9f30518d0214",
+        "mobilesdk_app_id": "1:510232054004:android:dd0b783a7b8c790c5336a1",
         "android_client_info": {
-          "package_name": "com.example.ciyashop"
+          "package_name": "com.example.go360mart"
         }
       },
       "oauth_client": [
         {
-          "client_id": "573891001770-3vr595f680ulp7f4g6ci9798as4kgntg.apps.googleusercontent.com",
+          "client_id": "510232054004-hq4j7ldt4avcem50nij9mfqqpp1b4h4k.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.ciyashop",
-            "certificate_hash": "d86df91f35ca9729c31799af3ec9e46ec5c1448a"
+            "package_name": "com.example.go360mart",
+            "certificate_hash": "45932ca546b610c4b83b7793916c8a58871cd41c"
           }
         },
         {
-          "client_id": "573891001770-qa1rs9m01gjtunitkdm8g5amlelb40rq.apps.googleusercontent.com",
+          "client_id": "510232054004-hlefbi4m17f9104bu3b1odstgftdq1an.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAGQwsEQXBhayMJ5F0QdyirKPsdGLXUG3k"
+          "current_key": "AIzaSyA7R1NSa7ulYMoreAgIxeK1iqzXljh8rW0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "573891001770-qa1rs9m01gjtunitkdm8g5amlelb40rq.apps.googleusercontent.com",
+              "client_id": "510232054004-hlefbi4m17f9104bu3b1odstgftdq1an.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
